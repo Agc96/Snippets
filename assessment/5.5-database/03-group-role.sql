@@ -1,0 +1,20 @@
+INSERT INTO "acl_group" (group_id,group_name) VALUES (1,'ABC');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (2,'DEF');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (3,'GHI');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (4,'JKL');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (5,'MNN');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (6,'OPQ');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (7,'RST');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (8,'UVW');
+INSERT INTO "acl_group" (group_id,group_name) VALUES (9,'XYZ');
+
+INSERT INTO "acl_role" (role_id,role_name) VALUES (1,'AAA');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (2,'BBB');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (3,'CCC');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (4,'DDD');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (5,'EEE');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (6,'FFF');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (7,'GGG');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (8,'HHH');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (9,'III');
+INSERT INTO "acl_role" (role_id,role_name) VALUES (10,'JJJ');
